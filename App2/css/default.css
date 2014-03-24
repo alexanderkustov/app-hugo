@@ -11,12 +11,12 @@ body {
 }
 a {
     color:white;
-    text-shadow: 0 0 5px #333;
+ 
 }
 
 a:hover {
     color:white;
-    text-shadow: 0 0 5px #333;
+   
 }
 
 #iscte {
@@ -78,7 +78,7 @@ ul {
 
 
 .big{
-    background: tomato;
+    background: white;
     width:180px;
     height:400px;
     margin-top:20px;
@@ -90,7 +90,23 @@ ul {
     font-weight: 900;
     bottom: 5px;
     }
- 
+
+    
+.big ul li {
+    padding-top:10px;
+    padding-left: 10px;
+    font-weight: bold;
+    text-transform: uppercase; 
+}
+
+    .big ul li a {
+        color: rgb(0,156,228);
+    }
+
+     .big ul li a:hover {
+        color: rgb(0,156,228);
+    }
+
 .small{
     background: rgb(0,156,228);
     width:180px;
@@ -104,6 +120,7 @@ ul {
     font-size: 21px;
     font-family: Arial, sans-serif;
     font-weight: 700;
+   text-transform: uppercase;
     }
 
 
