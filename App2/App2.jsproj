@@ -56,6 +56,11 @@
       <SubType>Designer</SubType>
     </AppxManifest>
     <Content Include="css\curso.css" />
+    <Content Include="arq.html" />
+    <Content Include="ige.html" />
+    <Content Include="lei.html" />
+    <Content Include="eti.html" />
+    <Content Include="social.html" />
     <Content Include="porque.html" />
     <Content Include="gestao.html" />
     <Content Include="images\page-top.JPG" />
