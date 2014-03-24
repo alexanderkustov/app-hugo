@@ -1,0 +1,65 @@
+﻿.content-col {
+    width:820px;
+    height:507px;
+    margin-top:63px;
+    margin-left:25px;
+    float:left;
+}
+.content-box {
+background-color: tomato;
+height:80%;
+display:block;
+ background-color: white;
+    color:lightblue;
+}
+
+.porque-col {
+    width:820px;
+    height:550px;
+    margin-top:63px;
+    margin-left:205px;
+    float:left;
+}
+.porque-box {
+background-color: white;
+height:100%;
+display:block;
+ background-color: white;
+    color:lightblue;
+}
+
+.bottom-row {
+    width:900px;
+    height:25%;
+    margin-top: 7px;
+    display:block;
+}
+
+.saidas {
+    width: 400px;
+    background-color: white;
+    color:lightblue;
+    float:left;
+    height: 200px;
+}
+
+.testemunho {
+background-color: blue;
+float:left;
+width:200px;
+height:200px;
+margin-left:10px;
+}
+.vagas {
+    background-color:blue;
+    width:200px;
+    float:left;
+    height:200px;
+    
+margin-left:10px;
+}
+
+
+#titulo {
+    width: 100%;
+}
