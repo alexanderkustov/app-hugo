@@ -70,6 +70,7 @@
     <Content Include="images\iscteiul.jpg" />
     <Content Include="lei.html" />
     <Content Include="marketing.html" />
+    <Content Include="galeria.html" />
     <Content Include="porque.html" />
     <Content Include="gestao.html" />
     <Content Include="images\page-top.JPG" />

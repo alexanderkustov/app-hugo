@@ -14,13 +14,14 @@
     <Resource Language="x-generate" />
   </Resources>
   <Applications>
-    <Application Id="App" StartPage="gestao.html">
+    <Application Id="App" StartPage="default.html">
       <m2:VisualElements DisplayName="APP ISCTE-IUL" Description="ISCTE-IUL APP" ForegroundText="light" BackgroundColor="#464646" Square150x150Logo="images\Logo.png" Square30x30Logo="images\SmallLogo.png" ToastCapable="false">
         <m2:SplashScreen Image="images\splashscreen.png" BackgroundColor="#00599c" />
         <m2:InitialRotationPreference>
           <m2:Rotation Preference="landscape" />
           <m2:Rotation Preference="landscapeFlipped" />
         </m2:InitialRotationPreference>
+        <m2:ApplicationView MinWidth="default" />
       </m2:VisualElements>
     </Application>
   </Applications>
