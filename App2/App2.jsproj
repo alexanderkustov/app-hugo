@@ -58,6 +58,8 @@
     <Content Include="css\curso.css" />
     <Content Include="arq.html" />
     <Content Include="ige.html" />
+    <Content Include="images\hero.jpg" />
+    <Content Include="images\iscteiul.jpg" />
     <Content Include="lei.html" />
     <Content Include="eti.html" />
     <Content Include="social.html" />
