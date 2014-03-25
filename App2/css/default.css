@@ -31,12 +31,12 @@ a:hover {
 
 #titulo {
     position:absolute;
-    top:2px;
+    top:0px;
     right: 0;
     
     left:40%;
     width:400px;
-    height:60px;
+    height:50px;
 }
 
 
@@ -47,11 +47,11 @@ a:hover {
 }
 
 .iscte-bar {
-    width:1060px;
+    width:980px;
     height: 180px;
     background: url("../images/page-top.JPG");
     background-size:cover;
-    margin-top: 75px;
+    margin-top: 65px;
 
     
 }
@@ -115,6 +115,45 @@ ul {
         color: rgb(0,156,228);
     }
 
+
+     .big-c{
+    background: white;
+    width:180px;
+    height:373px;
+    margin-top:5px;
+    display: inline-block;
+    position: relative;
+   
+}
+
+    .big-c h3 {
+    font-weight: 900;
+    bottom: 5px;
+    font-size: 2em;
+    text-transform: uppercase;
+    vertical-align: bottom;
+    position:absolute;
+    bottom: 10px;
+    left: 3px;
+    text-shadow: 2px 2px 2px black;
+    }
+
+    
+.big-c ul li {
+    padding-top:10px;
+    padding-left: 10px;
+    font-weight: bold;
+    text-transform: uppercase; 
+}
+
+    .big-c ul li a {
+        color: rgb(0,156,228);
+    }
+
+     .big-c ul li a:hover {
+        color: rgb(0,156,228);
+    }
+
 .small{
     background: rgb(0,156,228);
     width:180px;
@@ -133,6 +172,20 @@ ul {
    position: absolute;
    bottom: 10px;
    left: 3px;
+   word-break: normal;
+    }
+
+
+    
+    .small h4 {
+   
+    font-size: 1em;
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+   text-transform: uppercase;
+   position: absolute;
+   bottom: 10px;
+   left: 5px;
    word-break: normal;
     }
 
@@ -160,7 +213,6 @@ ul {
   .copy p {
         height: 300px;
         width: 100%;
-        overflow: scroll;
     }
 
     .copy img {
